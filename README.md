@@ -1,6 +1,8 @@
 This repository contains the main Python files for the dissertation project Route generation for minimal airborne particulate exposure for walking and cycling trips in London for the Msc in Data Science at the University of Edinburgh 2022-2023 (obtaining a final Distinction mark). 
 
-It includes 2 main folders and the dissertation file:
+Project involved processing Open Street Maps data and creating multi directed and unidirected graphs, processing and prunning the graphs, implementing pathfinding and arc-orienteering algorithms, developing a mobile App (associated repo in my profile) and finally, developing a simple flask application for hosting and sending the pollution data to the app.
+
+This repo includes 2 main folders and the dissertation file:
 + Notebooks: all python files for creating graphs and visualizing some results
 + GCP
 
