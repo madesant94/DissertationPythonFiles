@@ -1,4 +1,6 @@
-The following folder contains 2 main folders and the dissertation file:
+This repository contains the main Python files for the dissertation project Route generation for minimal airborne particulate exposure for walking and cycling trips in London for the Msc in Data Science at the University of Edinburgh 2022-2023 (obtaining a final Distinction mark). 
+
+It includes 2 main folders and the dissertation file:
 + Notebooks: all python files for creating graphs and visualizing some results
 + GCP
 
