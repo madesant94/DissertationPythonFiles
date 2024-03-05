@@ -1,6 +1,6 @@
-The following folder contains 2 main folders:
-+ Python folder: all python files for creating graphs and visualizing some results
-+ Mobile app
+The following folder contains 2 main folders and the dissertation file:
++ Notebooks: all python files for creating graphs and visualizing some results
++ GCP
 
 ## Python folder:
 It contains data folder
