@@ -37,4 +37,4 @@ There is only the pollution grid data in Json format following this format:
 Where tileID1 refers to the pollution grid tile element.
 
 ## Dissertation File
-Final disseration Report (Distinction)
+Final Msc Dissertation Report (Distinction)
